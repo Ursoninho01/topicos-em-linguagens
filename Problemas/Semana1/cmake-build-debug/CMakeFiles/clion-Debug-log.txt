@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\jgabr\OneDrive\Documentos\Ufs\2024.2\Topicos\Problemas\Semana1 Select CMakeLists.txt
